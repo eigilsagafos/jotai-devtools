@@ -157,6 +157,7 @@
   },
   "peerDependencies": {
     "@emotion/react": ">=11.0.0",
+    "jotai": ">=2.0.0",
     "react": ">=17.0.0"
   },
   "dependencies": {
